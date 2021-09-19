@@ -8,7 +8,9 @@ Saying I will try to write clean code later is like cracked screen protector in 
 These are some of the technique I myself follow. Regardless of any programming language you can easily use these steps to make your code clean and organized.
 
 ### 1) Stop copy pasting code blindly from online websites.
+
 ![stackoverflow](assets/stackoverflow.png)
+
 Yes you heard it right, though there may be barely anyone who till now hasn't used code from online sites specially from stack overflow. It isn't actually bad to copy and paste code from online sites but you should really know what you're doing before copying from other sources. If the copied code solves your issue or you got desired output doesn't really mean the code you're copying is right one. You have to check if it brings any kind of vulnerability? How many extra dependencies it brings with it. If it requires any extra dependency package that may have any kind of vulnerability. You have to make sure that code doesnot brings any kind of typos or bugs with them. Copying sphaggeti code will bring extra complexity on your codebase. So you have to think twice or any required time before copying codes from google.
 
 ### 2) Follow Proper Naming rules
