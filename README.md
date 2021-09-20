@@ -132,7 +132,7 @@ The best way to learn clean codes is to try to communicate with your team member
 
 ---
 
-Besides the above steps, you can also further improve your code quality by self-reviewing your own code by making sure you follow the above points. Always revisit your code and check if you can optimize it furthermore. Ask your other team members to review your codes and as feedback from them. Since you will never want to get hurtful comments from others be sure to give positive feedback to your teammates when you're reviewing their codes. Rather than going line by line to check minor errors be sure to use lint checkers to automate those processes.
+Besides these above steps, you can also further improve your code quality by self-reviewing your own code by making sure you follow the above points. Always revisit your code and check if you can optimize it furthermore. Ask your other team members to review your codes and as feedback from them. Since you will never want to get hurtful comments from others be sure to give positive feedback to your teammates when you're reviewing their codes. Rather than going line by line to check minor errors be sure to use lint checkers to automate those processes.
 
 If you want to discuss more about it be sure to mail me at:
 [Roshan Ranabhat](mailto:roshanranabhat11@gmail.com?subject=[GitHub]%20Source%20Han%20Sans)
