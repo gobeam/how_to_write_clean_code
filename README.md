@@ -98,17 +98,17 @@ It doesn't matter how small the project is, always organize your code in the pro
 ---
 
 ### 7. Follow coding pattern
-* DRY
+* DRY<br>
 DRY stands for "Don't Repeat Yourself". As the name states, it discourages the repetition of code.
 If we repeat code in our projects if anything changes we will have to make changes in all places.
 
-* KISS
+* KISS<br>
 KISS stands for "Keep It Simple, Stupid". The simpler your code is it will be easier to maintain it or to be understood by your other team members. After all programming language is to be understood by us humans more because computers can understand only 0 and 1. Don't bring unnecessary complexity to your codes. Never write a code that will leave you scratching your head when you check it after a month.
 
-*YAGNI
+* YAGNI<br>
 YAGNI stands for "You Aren't Gonna Need It". Sometimes we developer tends to think ahead of thing and write code extra features thinking we may need it on future. You should always focus on your existing feature rather than worrying about some imaginary complex feature that may or may not be needed and could be removed or changed. 
 
-* SOC
+* SOC<br>
 SOC stands for "Separation of Concerns". This principle states to separate responsibility of a single class to this class and this class only. The best practice is to write code in a way so that each class or section will address its own concern.
 
 ---
